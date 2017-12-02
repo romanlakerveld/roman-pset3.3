@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">romanpset3</string>
+    <string name="orderbutton">Go to order</string>
+    <string name="menubutton">Back to menu</string>
+    <string name="backButton">Back to menu</string>
+    <string name="submitbutton">Submit order</string>
+    <string name="explanation">Click an item to remove it from the order</string>
+</resources>
