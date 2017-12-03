@@ -6,5 +6,5 @@ Made in Android Studio. Allows the user to select a category and then menu items
 
 ## Screenshots of app
 <a href="url"><img src="https://github.com/romanlakerveld/roman-pset3.3/blob/master/screenies/Screenshot_20171203-211418.png" align="left" height="400" width="220" ></a>
-<a href="url"><img src="https://github.com/romanlakerveld/roman-pset3.3/blob/master/screenies/Screenshot_20171203-211423.pngg" align="left" height="400" width="220" ></a>
+<a href="url"><img src="https://github.com/romanlakerveld/roman-pset3.3/blob/master/screenies/Screenshot_20171203-211423.png" align="left" height="400" width="220" ></a>
 <a href="url"><img src="https://github.com/romanlakerveld/roman-pset3.3/blob/master/screenies/Screenshot_20171203-211437.png" align="left" height="400" width="220" ></a>
