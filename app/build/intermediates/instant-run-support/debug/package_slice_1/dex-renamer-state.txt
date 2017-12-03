@@ -1,4 +1,4 @@
-#Sun Nov 19 23:31:24 CET 2017
+#Sun Dec 03 21:08:38 CET 2017
 base.0=C\:\\Users\\roman\\AndroidStudioProjects\\romanpset3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 renamed.0=classes.dex
 file.0=C\:\\Users\\roman\\AndroidStudioProjects\\romanpset3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
